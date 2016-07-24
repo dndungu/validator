@@ -5,4 +5,4 @@
 [![Issue Count](https://codeclimate.com/github/zatiti/validator/badges/issue_count.svg)](https://codeclimate.com/github/zatiti/validator)
 
 # validator
-A simple input validation written in golang
+A simple input validator for values such as domain, IP, email and UUID.
