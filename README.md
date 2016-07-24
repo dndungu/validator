@@ -5,4 +5,4 @@
 [![Issue Count](https://codeclimate.com/github/zatiti/validator/badges/issue_count.svg)](https://codeclimate.com/github/zatiti/validator)
 
 # validator
-A simple input validator for values such as domain, IP, email and UUID.
+A simple input validator for string values of phone numbers, domains, IPs, emails and UUIDs.
